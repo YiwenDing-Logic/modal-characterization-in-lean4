@@ -1,5 +1,7 @@
 # Modal Characterization in Lean
 
+[![Lean CI](https://github.com/YiwenDing-Logic/modal-model-theory-lean/actions/workflows/lean.yml/badge.svg)](https://github.com/YiwenDing-Logic/modal-model-theory-lean/actions/workflows/lean.yml)
+
 A Lean 4 library for classical modal model theory, built on mathlib and CSLib.
 It formalizes van Benthem's characterization theorem together with
 bisimulation-somewhere characterizations, modal definability of pointed model
@@ -147,8 +149,10 @@ verification modules. Their axiom dependencies are subsets of `propext`,
 The build used a new project build directory and cached dependencies whose
 revisions matched the lockfile. It was not a fresh dependency reconstruction or
 an isolated validation run. The verification entrypoint exposes the theorem
-types and actual axiom dependencies for inspection. The CI configuration has been
-checked locally; no hosted GitHub CI run is recorded for this snapshot.
+types and actual axiom dependencies for inspection. On 2026-11-02, hosted
+GitHub CI also passed on Ubuntu 24.04: all 1145 build jobs completed,
+the axiom gate accepted the same 224 declarations, and the dependency pins
+remained unchanged. The badge above links to current CI results.
 Independent-checker validation and isolated validation of this snapshot have not
 been completed. Compilation and axiom checks do not by themselves establish that
 the formal statements faithfully express the source mathematics.
