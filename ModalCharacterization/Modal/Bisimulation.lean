@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Reuses CSLib's LTS bisimulation API (Fabrizio Montesi, Thomas Waring).
 Related existing HML invariance: Fabrizio Montesi, Marco Peressotti, Alexandre Rademaker.
 Foundation's BisimulationUnder.forces_iff is related prior cross-model work.

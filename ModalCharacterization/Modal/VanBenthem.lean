@@ -1,4 +1,4 @@
-/- Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+/- Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Uses mathlib model theory and CSLib modal semantics; no experimental imports. -/
 module
 public import ModalCharacterization.Modal.Detour

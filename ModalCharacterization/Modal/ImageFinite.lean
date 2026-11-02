@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Image-finite corollaries of the project's modal-saturation theorem.
 Prior CSLib HML work: Fabrizio Montesi, Marco Peressotti, Alexandre Rademaker.
 This is not a first-formalization claim or a reproduction of the direct proof

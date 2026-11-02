@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Reuses mathlib's ultraproduct semantics and elementary maps (Aaron Anderson).
 -/
 module

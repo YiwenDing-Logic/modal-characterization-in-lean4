@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Auxiliary first-order infrastructure using mathlib's compactness and complete types.
 The reused model-theory APIs are by Aaron Anderson (mathlib, Apache-2.0).
 -/

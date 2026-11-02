@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Uses mathlib and, in the modal adapter, CSLib (Fabrizio Montesi, Marianna Girlando).
 Blue Book: Blackburn, de Rijke, Venema, Modal Logic, fourth printing (2010).
 Foundation's historical standard translation by Mashu Noguchi is prior work;

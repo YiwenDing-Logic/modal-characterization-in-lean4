@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Uses CSLib modal semantics and Aaron Anderson's mathlib ultraproduct theorem
 through the project's standard-translation and ultraproduct adapters.
 -/

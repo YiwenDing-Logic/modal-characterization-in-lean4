@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Follows Blackburn, de Rijke, Venema, Modal Logic (2010 fourth corrected printing),
 Thm. 2.65, p. 102. Reuses mathlib parameter semantics and the project's CSLib adapter.
 -/

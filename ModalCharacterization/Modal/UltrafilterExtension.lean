@@ -1,5 +1,5 @@
 /-
-Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Blue Book, 2010 fourth corrected printing, §2.5.
 Reuses mathlib ultrafilters and CSLib frames/models. Prior work includes
 Mashu Noguchi's complex algebras and Xu/Norrish's HOL4 ultrafilter extensions.

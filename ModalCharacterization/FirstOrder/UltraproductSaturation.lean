@@ -1,4 +1,4 @@
-/- Modal Characterization in Lean. Released under Apache-2.0; see LICENSE.
+/- Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE.
 Reuses mathlib model theory and Los semantics by Aaron Anderson. -/
 module
 public import ModalCharacterization.FirstOrder.Ultrafilter

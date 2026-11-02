@@ -1,6 +1,6 @@
-# Modal Characterization in Lean
+# Modal Characterization in Lean 4
 
-[![Lean CI](https://github.com/YiwenDing-Logic/modal-model-theory-lean/actions/workflows/lean.yml/badge.svg)](https://github.com/YiwenDing-Logic/modal-model-theory-lean/actions/workflows/lean.yml)
+[![Lean CI](https://github.com/YiwenDing-Logic/modal-characterization-in-lean4/actions/workflows/lean.yml/badge.svg)](https://github.com/YiwenDing-Logic/modal-characterization-in-lean4/actions/workflows/lean.yml)
 
 A Lean 4 library for classical modal model theory, built on mathlib and CSLib.
 It formalizes van Benthem's characterization theorem together with

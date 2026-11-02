@@ -1,4 +1,4 @@
-/- Modal Characterization in Lean. Released under Apache-2.0; see LICENSE. -/
+/- Modal Characterization in Lean 4. Released under Apache-2.0; see LICENSE. -/
 module
 
 public import ModalCharacterization.Modal.ModelClass
