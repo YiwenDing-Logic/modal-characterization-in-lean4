@@ -1,0 +1,19 @@
+name = "modalCharacterization"
+version = "0.1.0"
+defaultTargets = ["ModalCharacterization", "Verification"]
+
+[[require]]
+name = "cslib"
+git = "https://github.com/leanprover/cslib"
+rev = "142f4fa6149aff188630c38d417f00387a3e8b74"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "56a005855ea17e0b0958f73ec801ae140b0a1679"
+
+[[lean_lib]]
+name = "ModalCharacterization"
+
+[[lean_lib]]
+name = "Verification"

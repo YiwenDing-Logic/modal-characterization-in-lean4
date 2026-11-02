@@ -1,0 +1,15 @@
+# Lean and Lake build products
+.lake/
+*.olean
+*.ilean
+*.olean.hash
+*.ilean.hash
+
+# Local environment and editor files
+.DS_Store
+.env
+.env.*
+*.log
+__pycache__/
+.venv/
+.vscode/
